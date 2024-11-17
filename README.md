@@ -1,5 +1,5 @@
 <div align= "center">
-# Netflix Dashboard
+# <span style="font-size: 3em;">Netflix Dashboard</span>
 </div>
 
 ---
