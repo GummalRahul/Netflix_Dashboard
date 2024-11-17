@@ -11,6 +11,7 @@ and a detailed breakdown of content ratings based on maturity levels. Additional
 allowing users to explore how Netflix has expanded its catalog year by year. By integrating visual tools like maps, bar charts, and trend lines, 
 this dashboard offers a comprehensive view of Netflix's growth and content strategies.
 
+
 ![Netflix_Dashboad](https://github.com/user-attachments/assets/a266149f-ce1e-4c3d-90a8-036704c79b13)
 
 
