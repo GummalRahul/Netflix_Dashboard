@@ -5,7 +5,7 @@ This repository contains an interactive Netflix Dashboard that provides insights
 including distribution by country, popular genres, content ratings, and trends over time. 
 The dashboard was built to help users analyze and explore Netflix's global catalog.
 
-## ** Features**
+## **Features**
 - Features
 1. Content Distribution by Country
 -  world map visualization that displays the availability of Netflix titles across different countries.
