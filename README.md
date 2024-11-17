@@ -5,9 +5,11 @@
 ---
 
 ## **Project Overview**
-This repository contains an interactive Netflix Dashboard that provides insights into Netflix's library,
-including distribution by country, popular genres, content ratings, and trends over time. 
-The dashboard was built to help users analyze and explore Netflix's global catalog.
+This repository contains an interactive Netflix Dashboard, designed to provide an in-depth analysis of Netflix's extensive library. 
+It enables users to uncover valuable insights, such as the geographic distribution of Netflix content across different countries, the most popular genres worldwide,
+and a detailed breakdown of content ratings based on maturity levels. Additionally, the dashboard showcases trends over time, 
+allowing users to explore how Netflix has expanded its catalog year by year. By integrating visual tools like maps, bar charts, and trend lines, 
+this dashboard offers a comprehensive view of Netflix's growth and content strategies.
 ![Netflix_Dashboad](https://github.com/user-attachments/assets/a266149f-ce1e-4c3d-90a8-036704c79b13)
 
 
